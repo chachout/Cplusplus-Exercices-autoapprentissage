@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1546827748 source:c:\users\pierre\desktop\informatique\c++\cours\coursclasse\main.cpp
+	<string>
+	<iostream>
+	"Personnage.h"
+
+1546828036 c:\users\pierre\desktop\informatique\c++\cours\coursclasse\personnage.h
+	<string>
+

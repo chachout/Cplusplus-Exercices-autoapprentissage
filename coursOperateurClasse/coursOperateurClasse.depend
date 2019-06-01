@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1547006871 source:c:\users\pierre\desktop\informatique\c++\cours\coursoperateurclasse\duree.cpp
+	"Duree.h"
+	<iostream>
+
+1547007038 c:\users\pierre\desktop\informatique\c++\cours\coursoperateurclasse\duree.h
+	<iostream>
+
+1547050161 source:c:\users\pierre\desktop\informatique\c++\cours\coursoperateurclasse\main.cpp
+	<iostream>
+	"Duree.h"
+

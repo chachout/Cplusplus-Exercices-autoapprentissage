@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1547317296 source:c:\users\pierre\desktop\informatique\c++\cours\coursclassepointeur\arme.cpp
+	"Arme.h"
+	<string>
+	<iostream>
+
+1547317296 c:\users\pierre\desktop\informatique\c++\cours\coursclassepointeur\arme.h
+	<iostream>
+	<string>
+
+1547317296 source:c:\users\pierre\desktop\informatique\c++\cours\coursclassepointeur\main.cpp
+	<string>
+	<iostream>
+	"Personnage.h"
+
+1547589132 c:\users\pierre\desktop\informatique\c++\cours\coursclassepointeur\personnage.h
+	<string>
+	"Arme.h"
+

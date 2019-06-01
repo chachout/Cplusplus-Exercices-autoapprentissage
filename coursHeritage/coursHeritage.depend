@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1548002796 source:c:\users\pierre\desktop\informatique\c++\cours\coursheritage\guerrier.cpp
+
+1548003243 source:c:\users\pierre\desktop\informatique\c++\cours\coursheritage\magicien.cpp
+
+1548003481 source:c:\users\pierre\desktop\informatique\c++\cours\coursheritage\personage.cpp
+	"Personnage.h"
+
+1550014205 c:\users\pierre\desktop\informatique\c++\cours\coursheritage\personnage.h
+	<iostream>
+	<string>
+
+1548003481 source:c:\users\pierre\desktop\informatique\c++\cours\coursheritage\main.cpp
+	<iostream>
+	"Personnage.h"
+	"Guerrier.h"
+	"Magicien.h"
+
+1548003481 c:\users\pierre\desktop\informatique\c++\cours\coursheritage\guerrier.h
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1550014205 c:\users\pierre\desktop\informatique\c++\cours\coursheritage\magicien.h
+	<iostream>
+	<string>
+	"Personnage.h"
+

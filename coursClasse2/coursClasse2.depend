@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1546832079 source:c:\users\pierre\desktop\informatique\c++\cours\coursclasse2\main.cpp
+	<string>
+	<iostream>
+	"Personnage.h"
+
+1546832079 c:\users\pierre\desktop\informatique\c++\cours\coursclasse2\personnage.h
+	<string>
+	"Arme.h"
+
+1546832079 c:\users\pierre\desktop\informatique\c++\cours\coursclasse2\arme.h
+	<iostream>
+	<string>
+
+1546832421 source:c:\users\pierre\desktop\informatique\c++\cours\coursclasse2\arme.cpp
+	"Arme.h"
+	<string>
+	<iostream>
+
+1546832385 source:c:\users\pierre\desktop\informatique\c++\cours\coursclasse2\personnage.cpp
+	<string>
+	"Personnage.h"
+	<iostream>
+	"Arme.h"
+

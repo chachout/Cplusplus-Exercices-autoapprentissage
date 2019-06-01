@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1546028039 source:c:\users\pierre\desktop\informatique\c++\cours\coursfonctions\main.cpp
+	<iostream>
+	"math.h"
+	<iostream>
+
+1546027563 source:c:\users\pierre\desktop\informatique\c++\cours\coursfonctions\math.cpp
+	"math.h"
+
+1546027950 c:\users\pierre\desktop\informatique\c++\cours\coursfonctions\math.h
+
+1546140062 source:c:\users\pierre\desktop\informatique\c++\cours\courstpmotmystere\melangemot.cpp
+	"melangeMot.h"
+	<string>
+	<ctime>
+	<cstdlib>
+
+1546139965 c:\users\pierre\desktop\informatique\c++\cours\courstpmotmystere\melangemot.h
+	<string>
+
