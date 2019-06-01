@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1546621959 source:c:\users\pierre\desktop\informatique\c++\cours\courstpmotmystere\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"melangeMot.h"
+	"motDico.h"
+	"testMot.h"
+
+1546140601 c:\users\pierre\desktop\informatique\c++\cours\courstpmotmystere\melangemot.h
+	<string>
+
+1546140601 source:c:\users\pierre\desktop\informatique\c++\cours\courstpmotmystere\melangemot.cpp
+	"melangeMot.h"
+	<string>
+	<ctime>
+	<cstdlib>
+
+1546185733 c:\users\pierre\desktop\informatique\c++\cours\courstpmotmystere\motdico.h
+	<string>
+
+1546621891 source:c:\users\pierre\desktop\informatique\c++\cours\courstpmotmystere\motdico.cpp
+	"motDico.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<vector>
+
+1546194975 c:\users\pierre\desktop\informatique\c++\cours\courstpmotmystere\testmot.h
+	<string>
+
+1546195550 source:c:\users\pierre\desktop\informatique\c++\cours\courstpmotmystere\testmot.cpp
+	"testMot.h"
+	<string>
+	<iostream>
+
